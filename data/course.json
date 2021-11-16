@@ -1,0 +1,41 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Design and Engineering"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3656350a-fece-7ec0-6289-3fd0b7f71c0d",
+      "1650916a-e340-08ef-7cf3-e98b6241deec",
+      "aeec315e-6ae7-c219-8667-93d0858610cc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Theory of Parallel Hardware (SMA 5511)",
+  "course_description": "6.896\u00a0covers mathematical foundations of parallel hardware, from computer arithmetic to physical design, focusing on algorithmic underpinnings. Topics covered include: arithmetic circuits, parallel prefix, systolic arrays, retiming, clocking methodologies, boolean logic, sorting networks, interconnection networks, hypercubic networks, P-completeness, VLSI layout theory, reconfigurable wiring, fat-trees, and area-time complexity.\n\nThis course was also taught as part of the [Singapore-MIT Alliance](http://web.mit.edu/sma/) (SMA) programme as course number SMA 5511 (Theory of Parallel Hardware).\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.896",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
